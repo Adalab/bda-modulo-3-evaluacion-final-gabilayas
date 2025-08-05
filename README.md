@@ -1,4 +1,4 @@
-# ✈️ Airline Loyalty – Customer Analysis
+# ✈️ Airline Loyalty
 
 Este proyecto tiene como objetivo demostrar mi capacidad para limpiar, analizar y visualizar datos reales del sector aéreo y de fidelización de clientes.
 
